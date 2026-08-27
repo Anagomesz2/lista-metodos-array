@@ -1,0 +1,1 @@
+console.log('Posição de Carlos:', alunos.indexOf('Carlos'));
